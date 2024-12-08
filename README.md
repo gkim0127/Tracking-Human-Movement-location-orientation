@@ -1,2 +1,11 @@
-# Tracking-Human-Movement-location-orientation-
+# Tracking-Human-Movement-location-orientation
 Compsys 704 project 2
+
+## Localisation using Accelerometer and Magnetometer
+
+STM development kit, STM32CubeIDE
+- Data interpretation
+- Step detection
+- Stride Determination
+- Heading Determination
+  
