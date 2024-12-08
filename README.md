@@ -8,4 +8,5 @@ STM development kit, STM32CubeIDE
 - Step detection
 - Stride Determination
 - Heading Determination
-  
+
+Read Compendium_readme.pdf
