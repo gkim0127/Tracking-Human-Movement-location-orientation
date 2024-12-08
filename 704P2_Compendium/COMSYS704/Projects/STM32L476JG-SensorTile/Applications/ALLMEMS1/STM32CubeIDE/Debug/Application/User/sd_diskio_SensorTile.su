@@ -1,0 +1,6 @@
+sd_diskio_SensorTile.c:79:16:SD_CheckStatus	8	static
+sd_diskio_SensorTile.c:96:9:SD_initialize	8	static
+sd_diskio_SensorTile.c:117:9:SD_status	8	static
+sd_diskio_SensorTile.c:130:9:SD_read	16	static
+sd_diskio_SensorTile.c:157:9:SD_write	16	static
+sd_diskio_SensorTile.c:184:9:SD_ioctl	104	static

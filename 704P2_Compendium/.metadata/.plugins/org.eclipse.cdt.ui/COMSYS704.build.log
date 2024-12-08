@@ -1,0 +1,66 @@
+16:45:34 **** Incremental Build of configuration Debug for project COMSYS704 ****
+make all 
+arm-none-eabi-gcc "C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c" -mcpu=cortex-m4 -std=c99 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32L476xx -DUSE_STM32L4XX_NUCLEO -DSTM32_SENSORTILE -c -I../../Inc -I../../../../../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../../../../../../Drivers/STM32L4xx_HAL_Driver/Inc -I../../../../../../Drivers/BSP/SensorTile -I../../../../../../Drivers/CMSIS/Include -I../../../../../../Drivers/BSP/Components/Common -I../../../../../../Middlewares/ST/BlueNRG-MS/includes -I../../../../../../Middlewares/ST/BlueNRG-MS/utils -I../../../../../../Middlewares/ST/BlueNRG-MS/hci/hci_tl_patterns/Basic -I../../../../../../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I../../../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -Og -ffunction-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Application/User/main.d" -MT"Application/User/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -o "Application/User/main.o"
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c: In function 'readMag':
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c:297:29: warning: unused variable 'magZ_G' [-Wunused-variable]
+  297 |         float magX_G,magY_G,magZ_G;
+      |                             ^~~~~~
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c:297:22: warning: unused variable 'magY_G' [-Wunused-variable]
+  297 |         float magX_G,magY_G,magZ_G;
+      |                      ^~~~~~
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c:297:15: warning: unused variable 'magX_G' [-Wunused-variable]
+  297 |         float magX_G,magY_G,magZ_G;
+      |               ^~~~~~
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c: In function 'main':
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c:540:13: warning: unused variable 'accZ_int' [-Wunused-variable]
+  540 |     int16_t accZ_int = (int16_t)accZ_mg;
+      |             ^~~~~~~~
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c:539:13: warning: unused variable 'accY_int' [-Wunused-variable]
+  539 |     int16_t accY_int = (int16_t)accY_mg;
+      |             ^~~~~~~~
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c:538:13: warning: unused variable 'accX_int' [-Wunused-variable]
+  538 |     int16_t accX_int = (int16_t)accX_mg;
+      |             ^~~~~~~~
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c:506:11: warning: unused variable 'magZ_h' [-Wunused-variable]
+  506 |     float magZ_h = MAG_Value.z;
+      |           ^~~~~~
+At top level:
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c:1101:13: warning: 'DeinitTimers' defined but not used [-Wunused-function]
+ 1101 | static void DeinitTimers(void)
+      |             ^~~~~~~~~~~~
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c: In function 'readMag':
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c:334:18: warning: 'magZ_sum' may be used uninitialized in this function [-Wmaybe-uninitialized]
+  334 |         magZ_sum +=magZ_mG;
+      |                  ^~
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c:333:18: warning: 'magY_sum' may be used uninitialized in this function [-Wmaybe-uninitialized]
+  333 |         magY_sum +=magY_mG;
+      |                  ^~
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c:332:18: warning: 'magX_sum' may be used uninitialized in this function [-Wmaybe-uninitialized]
+  332 |         magX_sum +=magX_mG;
+      |                  ^~
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c: In function 'readAcc':
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c:392:18: warning: 'accZ_sum' may be used uninitialized in this function [-Wmaybe-uninitialized]
+  392 |         accZ_sum +=accZ_mg;
+      |                  ^~
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c:391:18: warning: 'accY_sum' may be used uninitialized in this function [-Wmaybe-uninitialized]
+  391 |         accY_sum +=accY_mg;
+      |                  ^~
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/main.c:390:18: warning: 'accX_sum' may be used uninitialized in this function [-Wmaybe-uninitialized]
+  390 |         accX_sum +=accX_mg;
+      |                  ^~
+arm-none-eabi-g++ -o "STM32L476JG-SensorTile_ALLMEMS1.elf" @"objects.list"   -mcpu=cortex-m4 -T"../STM32L476RGTX.ld" -Wl,-Map="STM32L476JG-SensorTile_ALLMEMS1.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+Finished building target: STM32L476JG-SensorTile_ALLMEMS1.elf
+ 
+arm-none-eabi-size   STM32L476JG-SensorTile_ALLMEMS1.elf 
+   text	   data	    bss	    dec	    hex	filename
+  42944	    504	  22684	  66132	  10254	STM32L476JG-SensorTile_ALLMEMS1.elf
+Finished building: default.size.stdout
+ 
+arm-none-eabi-objdump -h -S  STM32L476JG-SensorTile_ALLMEMS1.elf  > "STM32L476JG-SensorTile_ALLMEMS1.list"
+Finished building: STM32L476JG-SensorTile_ALLMEMS1.list
+ 
+arm-none-eabi-objcopy -O binary "STM32L476JG-SensorTile_ALLMEMS1.elf" "STM32L476JG-SensorTile_ALLMEMS1.bin"
+ 
+
+16:45:36 Build Finished. 0 errors, 14 warnings. (took 2s.73ms)
+

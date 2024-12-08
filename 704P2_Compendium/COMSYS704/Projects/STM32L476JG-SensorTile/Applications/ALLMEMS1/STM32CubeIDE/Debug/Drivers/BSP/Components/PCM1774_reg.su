@@ -1,0 +1,14 @@
+PCM1774_reg.c:158:9:pcm1774_DeInit	0	static
+PCM1774_reg.c:167:10:pcm1774_ReadID	0	static
+PCM1774_reg.c:197:9:pcm1774_Pause	0	static
+PCM1774_reg.c:288:9:pcm1774_SetOutputMode	0	static
+PCM1774_reg.c:298:9:pcm1774_SetFrequency	0	static
+PCM1774_reg.c:307:9:pcm1774_Reset	0	static
+PCM1774_reg.c:328:9:PCM1774_ReadReg	16	static
+PCM1774_reg.c:343:9:PCM1774_WriteReg	16	static
+PCM1774_reg.c:117:9:pcm1774_Init	24	static
+PCM1774_reg.c:178:9:pcm1774_Play	16	static
+PCM1774_reg.c:206:9:pcm1774_Resume	16	static
+PCM1774_reg.c:229:9:pcm1774_Stop	16	static
+PCM1774_reg.c:252:9:pcm1774_SetVolume	16	static
+PCM1774_reg.c:266:9:pcm1774_SetMute	24	static

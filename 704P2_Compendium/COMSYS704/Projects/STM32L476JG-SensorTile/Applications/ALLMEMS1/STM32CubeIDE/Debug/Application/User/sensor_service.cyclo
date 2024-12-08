@@ -1,0 +1,10 @@
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/sensor_service.c:308:13:GAP_ConnectionComplete_CB	1
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/sensor_service.c:399:13:AccGyroMag_AttributeModified_CB	6
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/sensor_service.c:328:13:GAP_DisconnectionComplete_CB	2
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/sensor_service.c:92:12:safe_aci_gatt_update_char_value	3
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/sensor_service.c:124:12:Add_HW_SW_ServW2ST_Service	3
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/sensor_service.c:181:12:AccGyroMag_Update	2
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/sensor_service.c:231:6:setConnectable	1
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/sensor_service.c:364:6:Read_Request_CB	2
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/sensor_service.c:380:6:Attribute_Modified_CB	2
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/sensor_service.c:441:6:HCI_Event_CB	8

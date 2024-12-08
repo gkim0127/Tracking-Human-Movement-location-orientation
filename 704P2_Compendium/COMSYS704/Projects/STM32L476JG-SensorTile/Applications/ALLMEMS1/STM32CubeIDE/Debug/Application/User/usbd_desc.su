@@ -1,0 +1,9 @@
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/usbd_desc.c:121:10:USBD_VCP_DeviceDescriptor	0	static
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/usbd_desc.c:133:10:USBD_VCP_LangIDStrDescriptor	0	static
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/usbd_desc.c:232:13:IntToUnicode	4	static
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/usbd_desc.c:208:13:Get_SerialNum	16	static
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/usbd_desc.c:169:10:USBD_VCP_SerialStrDescriptor	8	static
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/usbd_desc.c:145:10:USBD_VCP_ProductStrDescriptor	8	static
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/usbd_desc.c:157:10:USBD_VCP_ManufacturerStrDescriptor	8	static
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/usbd_desc.c:185:10:USBD_VCP_ConfigStrDescriptor	8	static
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/usbd_desc.c:197:10:USBD_VCP_InterfaceStrDescriptor	8	static

@@ -1,0 +1,17 @@
+C:/Users/GGPC/Documents/704P2/COMSYS704/Drivers/BSP/SensorTile/SensorTile_bus.c:418:13:SPI2_MspInit	1
+C:/Users/GGPC/Documents/704P2/COMSYS704/Drivers/BSP/SensorTile/SensorTile_bus.c:336:13:SPI1_MspInit	1
+C:/Users/GGPC/Documents/704P2/COMSYS704/Drivers/BSP/SensorTile/SensorTile_bus.c:444:13:SPI2_MspDeInit	1
+C:/Users/GGPC/Documents/704P2/COMSYS704/Drivers/BSP/SensorTile/SensorTile_bus.c:364:13:SPI1_MspDeInit	1
+C:/Users/GGPC/Documents/704P2/COMSYS704/Drivers/BSP/SensorTile/SensorTile_bus.c:127:9:BSP_SPI2_DeInit	2
+C:/Users/GGPC/Documents/704P2/COMSYS704/Drivers/BSP/SensorTile/SensorTile_bus.c:147:9:BSP_SPI2_Send	2
+C:/Users/GGPC/Documents/704P2/COMSYS704/Drivers/BSP/SensorTile/SensorTile_bus.c:164:10:BSP_SPI2_Recv	2
+C:/Users/GGPC/Documents/704P2/COMSYS704/Drivers/BSP/SensorTile/SensorTile_bus.c:181:9:BSP_SPI2_SendRecv	2
+C:/Users/GGPC/Documents/704P2/COMSYS704/Drivers/BSP/SensorTile/SensorTile_bus.c:233:9:BSP_SPI1_DeInit	2
+C:/Users/GGPC/Documents/704P2/COMSYS704/Drivers/BSP/SensorTile/SensorTile_bus.c:253:9:BSP_SPI1_Send	2
+C:/Users/GGPC/Documents/704P2/COMSYS704/Drivers/BSP/SensorTile/SensorTile_bus.c:270:10:BSP_SPI1_Recv	2
+C:/Users/GGPC/Documents/704P2/COMSYS704/Drivers/BSP/SensorTile/SensorTile_bus.c:287:9:BSP_SPI1_SendRecv	2
+C:/Users/GGPC/Documents/704P2/COMSYS704/Drivers/BSP/SensorTile/SensorTile_bus.c:304:9:BSP_GetTick	1
+C:/Users/GGPC/Documents/704P2/COMSYS704/Drivers/BSP/SensorTile/SensorTile_bus.c:311:26:MX_SPI1_Init	2
+C:/Users/GGPC/Documents/704P2/COMSYS704/Drivers/BSP/SensorTile/SensorTile_bus.c:199:9:BSP_SPI1_Init	3
+C:/Users/GGPC/Documents/704P2/COMSYS704/Drivers/BSP/SensorTile/SensorTile_bus.c:386:26:MX_SPI2_Init	2
+C:/Users/GGPC/Documents/704P2/COMSYS704/Drivers/BSP/SensorTile/SensorTile_bus.c:93:9:BSP_SPI2_Init	3

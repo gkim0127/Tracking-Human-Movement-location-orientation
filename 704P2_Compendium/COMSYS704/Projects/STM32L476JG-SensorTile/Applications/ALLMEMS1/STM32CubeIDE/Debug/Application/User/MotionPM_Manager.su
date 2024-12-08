@@ -1,0 +1,4 @@
+MotionPM_Manager.c:43:6:MotionPM_manager_init	304	static
+MotionPM_Manager.c:61:6:MotionPM_manager_run	8	static
+MotionPM_Manager.c:71:6:MotionPM_manager_reset	8	static
+MotionPM_Manager.c:82:6:MotionPM_manager_get_version	8	static

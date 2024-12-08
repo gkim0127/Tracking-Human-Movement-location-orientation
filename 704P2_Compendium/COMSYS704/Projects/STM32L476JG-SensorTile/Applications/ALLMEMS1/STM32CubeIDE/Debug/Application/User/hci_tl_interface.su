@@ -1,0 +1,8 @@
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/hci_tl_interface.c:52:9:HCI_TL_SPI_Init	312	static
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/hci_tl_interface.c:97:9:HCI_TL_SPI_DeInit	8	static
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/hci_tl_interface.c:111:9:HCI_TL_SPI_Reset	8	static
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/hci_tl_interface.c:127:9:HCI_TL_SPI_Receive	32	static
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/hci_tl_interface.c:186:9:HCI_TL_SPI_Send	40	static
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/hci_tl_interface.c:243:16:IsDataAvailable	8	static
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/hci_tl_interface.c:256:6:hci_tl_lowlevel_init	40	static
+C:/Users/GGPC/Documents/704P2/COMSYS704/Projects/STM32L476JG-SensorTile/Applications/ALLMEMS1/Src/hci_tl_interface.c:297:6:hci_tl_lowlevel_isr	8	static

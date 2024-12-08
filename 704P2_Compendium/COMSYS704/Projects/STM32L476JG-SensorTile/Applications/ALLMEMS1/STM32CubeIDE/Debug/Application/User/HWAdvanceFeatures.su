@@ -1,0 +1,16 @@
+HWAdvanceFeatures.c:41:6:InitHWFeatures	8	static
+HWAdvanceFeatures.c:51:6:DisableHWFeatures	0	static
+HWAdvanceFeatures.c:89:6:EnableHWOrientation6D	272	static
+HWAdvanceFeatures.c:109:6:DisableHWOrientation6D	272	static
+HWAdvanceFeatures.c:128:14:GetHWOrientation6D	280	static
+HWAdvanceFeatures.c:186:6:EnableHWTilt	272	static
+HWAdvanceFeatures.c:206:6:DisableHWTilt	272	static
+HWAdvanceFeatures.c:226:6:EnableHWWakeUp	272	static
+HWAdvanceFeatures.c:246:6:DisableHWWakeUp	272	static
+HWAdvanceFeatures.c:289:6:DisableHWFreeFall	272	static
+HWAdvanceFeatures.c:308:6:EnableHWDoubleTap	272	static
+HWAdvanceFeatures.c:341:6:DisableHWDoubleTap	272	static
+HWAdvanceFeatures.c:360:6:EnableHWSingleTap	272	static
+HWAdvanceFeatures.c:380:6:DisableHWSingleTap	272	static
+HWAdvanceFeatures.c:468:6:EnableHWMultipleEvents	272	static
+HWAdvanceFeatures.c:495:6:DisableHWMultipleEvents	272	static
