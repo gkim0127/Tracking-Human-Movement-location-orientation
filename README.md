@@ -1,4 +1,4 @@
-# Tracking-Human-Movement-location-orientation
+
 Compsys 704 project 2
 
 ## Localisation using Accelerometer and Magnetometer
